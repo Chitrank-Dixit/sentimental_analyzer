@@ -1,251 +1,667 @@
 Negative,Positive,Review Text,Sentiment,Star Rating
-True,False,Need to work on app service as it offers lot of inconvenience to use...and rental price should be revised to suit the pocket of everyone,0,1
-True,False,App isn't working and nobody is even bothering to fix the bugs.,0,1
-True,False,Very bad,1,1
-True,False,Asks me to log into Facebook. I log into Facebook. Doesn't open. Repeat.,1,1
-True,False,"Downloaded, logged in, tried accessing it, thrice it said unfortunately, Flyrobe has stopped. Hence, uninstalled!",0,1
-True,False,got the money but little late...,1,3
-True,False,High rates of rents even on non elegant dresses,1,3
-True,False,Can we exchange the dress after being ordered...like after being ordered nd wear we might feel like its not suitable for our body..,1,1
-True,False,"Whenever I try to apply any filter, the app stops. Please fix this issue. Although, the concept behind the app is innovative.",0,3
-True,False,Why dis app does not work without facebook any other way to login,1,1
-True,False,Nice thinking but sing only Facebook why note anything else u no I dine have fb,1,1
-True,False,The app doesn't update my booking due to which I'm not able to change the pick up adddess,0,2
-True,False,I just installed the app but could not browse it or use it since it kept crashing. Concept seems to be interesting. Your developers need to do a better job and thorough testing before putting such app on production server....guys u need to recheck these kind of fatal errors before app goes live.,0,1
-True,False,I installed it and reinstalled but it just wouldnot work..,0,1
-True,False,"Hi, is it necessary that person should have Facebook account.",1,1
-True,False,I downloaded the app but its not showing ...what is wrong? Plis let me know,1,1
-True,False,Not able to book order online. . Tried 3 times and no reply on call centre number,0,2
-True,False,How is it that I find some dresses on the website through the browser but I don't get it on the app?? I just installed it after finding those awesome dresses on the website but it seems I can't rent it.,1,2
-True,False,Never come on the tyme given its abt 2 tymes eben delivery boy rejects to deliver.in delivery tym even,1,1
-True,False,"Your services is not available in cities of rajasthan. Please available your services in cities of rajasthan such as jodhpur, jaipur & udaipur also.",0,3
-True,False,Why This is not working flyrobe?,1,1
-True,False,"Can even check the catalogue, this app keeps crashing",1,2
-True,False,I installed this app but there is something wrong because it is not working.. please respond as soon as possible,0,1
-True,False,Crashes alot,1,2
+True,False,Not able to book order online,0,2
+True,False, ,0,2
+True,False, Tried 3 times and no reply on call centre number,0,2
+True,False,How is it that I find some dresses on the website through the browser but I don't get it on the app?? I just installed it after finding those awesome dresses on the website but it seems I can't rent it,0,2
+True,False,Never come on the tyme given its abt 2 tymes eben delivery boy rejects to deliver,0,1
+True,False,in delivery tym even,0,1
+True,False,Your services is not available in cities of rajasthan,0,3
+True,False," Please available your services in cities of rajasthan such as jodhpur, jaipur & udaipur also",0,3
+True,False,Why This is not working flyrobe?,0,1
+True,False,"Can even check the catalogue, this app keeps crashing",0,2
+True,False,I installed this app but there is something wrong because it is not working,0,1
+True,False, please respond as soon as possible,0,1
+True,False,Crashes alot,0,2
 True,False,Lots of crashes and hangs,1,1
 True,False,Its have very big amount but rent rate is ok,1,1
-True,False,Always show unfortunately not working....it's has been stopped,1,1
-True,False,"The app doesn't deserve even one star but I couldn't find a way to give a review without giving a star. Anyway, this app doesn't work at all, keeps getting stuck & just closes itself. I couldn't open it after the first time I downloaded it n checked it out, & even at that time the app was getting stuck & closing again & again. So, I don't think you guys should have launched this app without proper mechanism of the app. Secondly, options of sizes r not available at all. XL & XXL not available at all.",0,1
-True,False,Earlier i hv rented a dress frm it... Bt nw its nw even opening,0,1
-True,False,The app keeps crashing after opening the app to look for clothes for 5-6 times now. It's just not opening,1,3
-True,False,App is not even opening. Crashing every time I click on the icon,1,1
-True,False,Timewaste,1,1
-True,False,"If possible I would have rate them in negative! The service is so slow and don't even care to reply back to your quieres. Would totally recommend not to download this app, it's totally waste of space.",0,1
-True,False,"I m continuously trying to order some outfits, But this app is not working at all. Crashing again and again while placing an order . please do fix it as soon as possible!",0,1
-True,False,Useless app doesn't work..I am unable to access it only..using it is a different story altogether. .installed it thrice.,1,1
-True,False,Dont go for it..wastage of time.doesnt even open up..crashed site.,0,1
-True,False,App is not even opening...crashing again and again...:(,1,1
-True,False,Images don't get loaded up even after several minutes. Such a waste of time,0,1
-True,False,"The app is not working. Despite re installing it, it's crashing. Please look into the matter.",0,1
-True,False,App not opening,1,1
-True,False,"Everytime I am trying to open the app it's showing "" Unfortunately flyrobe has stopped"". Please fix this issue ASAP",1,2
-True,False,I m continuously trying to place order from.last 15 days but it is not getting download .wasted my time n energy.,0,2
-True,False,It is not opening after the update,1,1
-True,False,I had used dis app earlier it ss a great app bt now as dis app has gained popularity there is no dress available for nxt 10 days atleast if a person has to rent it he would get to know it instantly or 1 or 2 days before.if the person has 10 days he or she might prefer to buy it.dey have no dress available till next 10 days and vry few dresses for 5 days,0,1
-True,False,This app doesn't work! It's crashing again and again.,1,1
-True,False,Installed twice not working,1,1
+True,False,Always show unfortunately not working,0,1
+True,False,it's has been stopped,0,1
+True,False,The app doesn't deserve even one star but I couldn't find a way to give a review without giving a star,0,1
+True,False," Anyway, this app doesn't work at all, keeps getting stuck & just closes itself",0,1
+True,False," I couldn't open it after the first time I downloaded it n checked it out, & even at that time the app was getting stuck & closing again & again",0,1
+True,False," So, I don't think you guys should have launched this app without proper mechanism of the app",0,1
+True,False," Secondly, options of sizes r not available at all",0,1
+True,False, XL & XXL not available at all,0,1
+True,False,Earlier i hv rented a dress frm it,0,1
+True,False, Bt nw its nw even opening,0,1
+True,False,The app keeps crashing after opening the app to look for clothes for 5-6 times now,0,3
+True,False, It's just not opening,0,3
+True,False,App is not even opening,0,1
+True,False, Crashing every time I click on the icon,0,1
+True,False,Timewaste,0,1
+True,False,If possible I would have rate them in negative! The service is so slow and don't even care to reply back to your quieres,0,1
+True,False," Would totally recommend not to download this app, it's totally waste of space",0,1
+True,False,"I m continuously trying to order some outfits, But this app is not working at all",0,1
+True,False, Crashing again and again while placing an order ,0,1
+True,False, please do fix it as soon as possible!,0,1
+True,False,Useless app doesn't work,0,1
+True,False,I am unable to access it only,0,1
+True,False,using it is a different story altogether,1,1
+True,False, ,0,1
+True,False,installed it thrice,0,1
+True,False,Dont go for it,0,1
+True,False,wastage of time,0,1
+True,False,doesnt even open up,0,1
+True,False,crashed site,0,1
+True,False,App is not even opening,0,1
+True,False,crashing again and again,0,1
+True,False,:(,0,1
+True,False,Images don't get loaded up even after several minutes,0,1
+True,False, Such a waste of time,0,1
+True,False,The app is not working,0,1
+True,False," Despite re installing it, it's crashing",0,1
+True,False, Please look into the matter,1,1
+True,False,App not opening,0,1
+True,False,"Everytime I am trying to open the app it's showing "" Unfortunately flyrobe has stopped""",0,2
+True,False, Please fix this issue ASAP,0,2
+True,False,I m continuously trying to place order from,0,2
+True,False,last 15 days but it is not getting download ,0,2
+True,False,wasted my time n energy,0,2
+True,False,It is not opening after the update,0,1
+True,False,I had used dis app earlier it ss a great app bt now as dis app has gained popularity there is no dress available for nxt 10 days atleast if a person has to rent it he would get to know it instantly or 1 or 2 days before,0,1
+True,False,if the person has 10 days he or she might prefer to buy it,0,1
+True,False,dey have no dress available till next 10 days and vry few dresses for 5 days,0,1
+True,False,This app doesn't work! It's crashing again and again,0,1
+True,False,Installed twice not working,0,1
 True,False,Good,1,3
 True,False,"Doesn't work , crashed app ,",0,1
-True,False,"Although I love flyrobe because of my friends but here is an advice ""why don't you hire good technical team"". Usually my friends Oder through your app but it usually stop at regular intervals and most of the time it stopped working too ....",0,2
-True,False,Its not working..no use waste of time,1,1
-True,False,Sometimes I have urgency of going in party or events. I've tried many of times place ma order bt there's like for long hours your website or app have some technical issues. So I can't place ma order. Fix this issue on your App & website. Else it's better not to hopes up & shop on ur sites.,1,1
-True,False,"Even time I try to place an order, the app stops. How can someone use this app, if the app is not working properly. Main team should work on backend of this app.",0,1
-True,False,It's good but one problem is there. It ask our size but doesn't give size chart so that we can choose accurate size .,1,3
-True,False,"I am not able to complete the payment process... Whenever i choose ""place order"" it says ""something went wrong"" i have tried to place the order like 20 times.. i need an outfit urgently tomorrow.. i am now feeling bad to be dependent on this app because every time this does not happen !!",0,3
-True,False,How i will get free order.... of 600 #flyrobe,1,3
+True,False,"Although I love flyrobe because of my friends but here is an advice ""why don't you hire good technical team""",1,2
+True,False, Usually my friends Oder through your app but it usually stop at regular intervals and most of the time it stopped working too ,0,2
+True,False,Its not working,0,1
+True,False,no use waste of time,0,1
+True,False,Sometimes I have urgency of going in party or events,0,1
+True,False, I've tried many of times place ma order bt there's like for long hours your website or app have some technical issues,0,1
+True,False, So I can't place ma order,0,1
+True,False, Fix this issue on your App & website,0,1
+True,False, Else it's better not to hopes up & shop on ur sites,1,1
+True,False,"Even time I try to place an order, the app stops",0,1
+True,False," How can someone use this app, if the app is not working properly",0,1
+True,False, Main team should work on backend of this app,0,1
+True,False,It's good but one problem is there,1,3
+True,False, It ask our size but doesn't give size chart so that we can choose accurate size ,0,3
+True,False,I am not able to complete the payment process,0,3
+True,False," Whenever i choose ""place order"" it says ""something went wrong"" i have tried to place the order like 20 times",0,3
+True,False, i need an outfit urgently tomorrow,1,3
+True,False, i am now feeling bad to be dependent on this app because every time this does not happen !!,0,3
+True,False,How i will get free order,1,3
+True,False, of 600 #flyrobe,1,3
 True,False,Hi if I want to purchase then what will be the price I m confused only u give on rent or sell it also,0,1
-True,False,"Useless App. Whilst trying to chat or call, there is no response on both modes. In addition, if any design selected inadvertently, it is not getting removed off the cart.",1,1
-True,False,Collection is really nice but since when xxl is 40 bust size. .. acc to my knowledge xl is 40 and xxl is 42... DISAPPOINTED ð,0,3
-True,False,they dont deliver in navi mumbai .. Juz till vashi n airoli. Sad,0,3
-True,False,Ø¬ÙØ¯,1,3
-True,False,R u kidding me...bkwas,1,1
-True,False,I can't log in into to app . I tried uninstalling and reinstalling even then didn't work,0,1
+True,False,Useless App,0,1
+True,False," Whilst trying to chat or call, there is no response on both modes",0,1
+True,False," In addition, if any design selected inadvertently, it is not getting removed off the cart",0,1
+True,False,Collection is really nice but since when xxl is 40 bust size,1,3
+True,False, ,0,3
+True,False, acc to my knowledge xl is 40 and xxl is 42,0,3
+True,False, DISAPPOINTED 😐,0,3
+True,False,they dont deliver in navi mumbai ,0,3
+True,False, Juz till vashi n airoli,0,3
+True,False, Sad,0,3
+True,False,جيد,0,3
+True,False,R u kidding me,0,1
+True,False,bkwas,0,1
+True,False,I can't log in into to app ,0,1
+True,False, I tried uninstalling and reinstalling even then didn't work,0,1
 True,False,Not able to login at all when I try to login through Google plus it says try again later,0,1
-True,False,Not working on redmi note 3 .login page not working unable to select city .blank page is coming after clicking on icon,1,1
+True,False,Not working on redmi note 3 ,0,1
+True,False,login page not working unable to select city ,0,1
+True,False,blank page is coming after clicking on icon,0,1
 True,False,"I have been trying to Sign in with fb account from past 30 mins it shows some problem Can't login , is that a bug ? Does ap really work ?",0,1
-True,False,I can rent something only when the app functions! It just doesn't work!,1,2
-True,False,"You can't view anything without logging in... and when you want to login through google plus... it again and again shows ""oops something went wrong. Try later""... so install only if you have a Facebook id...",0,1
-True,False,Wtf? I'm unable to start I tried logging in 100times through fb and google both. But every time it says some error occurred try later. Like wtf man?,0,1
-True,False,"Concept seems good. But not even able to login to the app through Fb or Google. Fb login shows I've already given permission but both Fb n Google fails showing ""Oops something went wrong..""!",0,2
-True,False,App is not running in my phone only white screen is coming nothing is showing an error come again and and app not responding i install this app 4 times every time faceing the same prob. Please do the needfull,0,1
-True,False,Cant login to the app,1,1
-True,False,"Just one day before delivery date, they called up and told me that my ethnic wear has been delivered to some other customer as multiple order on same outfit has been taken.",1,1
-True,False,It was fine before but u guys really need to work on your app..Zero navigation ease .I've uninstalled it like 5 times & installed again.Also my credit points worth 3800 are lost. Don't know what to say,1,1
+True,False,I can rent something only when the app functions! It just doesn't work!,0,2
+True,False,You can't view anything without logging in,0,1
+True,False, and when you want to login through google plus,0,1
+True,False," it again and again shows ""oops something went wrong",0,1
+True,False," Try later""",0,1
+True,False, so install only if you have a Facebook id,0,1
+True,False,Wtf? I'm unable to start I tried logging in 100times through fb and google both,0,1
+True,False, But every time it says some error occurred try later,0,1
+True,False, Like wtf man?,1,1
+True,False,Concept seems good,1,2
+True,False, But not even able to login to the app through Fb or Google,0,2
+True,False," Fb login shows I've already given permission but both Fb n Google fails showing ""Oops something went wrong",0,2
+True,False,"""!",0,2
+True,False,App is not running in my phone only white screen is coming nothing is showing an error come again and and app not responding i install this app 4 times every time faceing the same prob,0,1
+True,False, Please do the needfull,0,1
+True,False,Cant login to the app,0,1
+True,False,"Just one day before delivery date, they called up and told me that my ethnic wear has been delivered to some other customer as multiple order on same outfit has been taken",0,1
+True,False,It was fine before but u guys really need to work on your app,1,1
+True,False,Zero navigation ease ,0,1
+True,False,I've uninstalled it like 5 times & installed again,0,1
+True,False,Also my credit points worth 3800 are lost,0,1
+True,False, Don't know what to say,0,1
 True,False,Bohot baar order kiya dress aaya he nahi,0,1
-True,False,I suggest all of you to beware!It's been a month that I have not received my refund for ethnic wear order security deposit.Everday I have to follow up at the call center and invest my time but all in vain!Half the time they don't pick up and promise to call back but no response!Give back my mony,0,1
-True,False,Okkk but not satisfied,0,1
-True,False,Ok ok,1,3
-True,False,It was really awesome until they cheated me. Money from my paytm account got deducted and order din received. Hate it. Flyrobe u r loosing ur biggest customer.,0,1
+True,False,I suggest all of you to beware!It's been a month that I have not received my refund for ethnic wear order security deposit,0,1
+True,False,Everday I have to follow up at the call center and invest my time but all in vain!Half the time they don't pick up and promise to call back but no response!Give back my mony,0,1
+True,False,Okkk but not satisfied,1,1
+True,False,Ok ok,0,3
+True,False,It was really awesome until they cheated me,1,1
+True,False, Money from my paytm account got deducted and order din received,0,1
+True,False, Hate it,0,1
+True,False, Flyrobe u r loosing ur biggest customer,0,1
 True,False,Flyrobe is the perfect place to find all kinds of clothes and you can rent them for many times that you want,1,3
-True,False,Great application great responsive the clock quality of clothes is also really good,0,3
-True,False,Order one size smaller than yours!!! Quick delivery. if you want replace or exchange product then service might not be attempted.make sure you place right size.,1,2
-True,False,"I rented an Ethnic wear from this app and overall my experience was not good. Firstly, the so called fitting expert was rude and did not cooperate at all. Then, the garment I received was stinky. My first experience with flyrobe was not up to the mark. I found Rent It Bae's services much better and prompt.",1,1
-True,False,"After seeing the last 3 pathetic reviews, wish i had seen them before. I didnt receive my outfit. No follow up at all. All 3 days i kept on calling on a customer care where no one replies back. No reply to the email. Chats are just waste of time. They kept on hanging me for 2 days that the outfit will be delivered. It was a disheartening exp, waiting for an outfit. I dont think its a set of professional people running this business. Good luck to u guys. Very bad performance.",0,1
-True,False,We don't get any discount coupon on our frnds first successful order it's too worst if uh can't give the discount coupon den don't even tell the people to share ur app,1,1
+True,False,Great application great responsive the clock quality of clothes is also really good,1,3
+True,False,Order one size smaller than yours!!! Quick delivery,0,2
+True,False, if you want replace or exchange product then service might not be attempted,0,2
+True,False,make sure you place right size,1,2
+True,False,I rented an Ethnic wear from this app and overall my experience was not good,1,1
+True,False," Firstly, the so called fitting expert was rude and did not cooperate at all",0,1
+True,False," Then, the garment I received was stinky",0,1
+True,False, My first experience with flyrobe was not up to the mark,1,1
+True,False, I found Rent It Bae's services much better and prompt,1,1
+True,False,"After seeing the last 3 pathetic reviews, wish i had seen them before",0,1
+True,False, I didnt receive my outfit,0,1
+True,False, No follow up at all,0,1
+True,False, All 3 days i kept on calling on a customer care where no one replies back,0,1
+True,False, No reply to the email,0,1
+True,False, Chats are just waste of time,0,1
+True,False, They kept on hanging me for 2 days that the outfit will be delivered,0,1
+True,False," It was a disheartening exp, waiting for an outfit",1,1
+True,False, I dont think its a set of professional people running this business,0,1
+True,False, Good luck to u guys,1,1
+True,False, Very bad performance,0,1
+True,False,We don't get any discount coupon on our frnds first successful order it's too worst if uh can't give the discount coupon den don't even tell the people to share ur app,0,1
 True,False,I can always rely on the poor people providing the services they have given the best delivery and the best product ever I am not going to buy a clothing line,0,3
 True,False,Efficient and effective service and delivery they do the pickup and delivery boy a man at your convenience this is so much better than other applications,1,1
-True,False,It's fake Fb par dress ke niche kaam price likha hua Hain app download Karne ke bd. 600ki dress 6000ki Nazar aa Rahi Hain. App download Karne ke liye bullshit harkat Hain ye. Be really okay fake hone se apko Good well nhi bnegi,0,1
-True,False,I have enquired about renting and the pre wedding photoshoot via chat with one of the executive. But its been more than 12 days that I have not even got a single call. She took my all details. I am still waiting for answer of my queries.,0,1
+True,False,It's fake Fb par dress ke niche kaam price likha hua Hain app download Karne ke bd,0,1
+True,False, 600ki dress 6000ki Nazar aa Rahi Hain,1,1
+True,False, App download Karne ke liye bullshit harkat Hain ye,0,1
+True,False, Be really okay fake hone se apko Good well nhi bnegi,0,1
+True,False,I have enquired about renting and the pre wedding photoshoot via chat with one of the executive,0,1
+True,False, But its been more than 12 days that I have not even got a single call,0,1
+True,False, She took my all details,0,1
+True,False, I am still waiting for answer of my queries,1,1
 True,False,Big fan of the application they have a lot of great choices to choose from I definitely ask you to try it,1,1
-True,False,Realy nyc,1,3
-True,False,If I want to buy your rent cloth so what I have do plz rlpy#flyrobe,0,3
-True,False,My wardrobe is always full of all the latest clothes and I never have to think twice for what to wear for any occasion. Love the versatile kind of clothing this app has.,1,1
+True,False,Realy nyc,0,3
+True,False,If I want to buy your rent cloth so what I have do plz rlpy#flyrobe,1,3
+True,False,My wardrobe is always full of all the latest clothes and I never have to think twice for what to wear for any occasion,1,1
+True,False, Love the versatile kind of clothing this app has,1,1
 True,False,This application you can we ensure that you are making the best decision they have everything that you wanted one place and very fun and easy to use totally cool application,1,3
-True,False,Printing cloth has been so much fun and easy with this application no complaints at all they are really one of the best in business,0,1
+True,False,Printing cloth has been so much fun and easy with this application no complaints at all they are really one of the best in business,1,1
 True,False,What is the most amazing application you should be surprised to get this application as up as was I for rental clothes services really really good,1,3
 True,False,Very good application I totally love it and its application I use every kind of Rental services and accessories,1,1
-True,False,Fav dress as we known as well as packing is just unbelievable its just amazing guys I love it....,1,3
-True,False,Really terrible experience with this company. Hygiene issues with the dress ordered and non-response for customer care. If you go to facebook to write an honest review they block and delete all your comments rather than help you with your issues.,1,1
-True,False,I hate this app,1,1
+True,False,Fav dress as we known as well as packing is just unbelievable its just amazing guys I love it,1,3
+True,False,Really terrible experience with this company,1,1
+True,False, Hygiene issues with the dress ordered and non-response for customer care,0,1
+True,False, If you go to facebook to write an honest review they block and delete all your comments rather than help you with your issues,0,1
+True,False,I hate this app,0,1
 True,False,Easy to shop from this application no problems they are expanding their clothing line very well,1,3
-True,False,Disgusting Apps & it's a one type of Froud Business. The Apps pay Money for Good Good Reviews. Its a very Rediculous Worst apps,0,1
-True,False,Call pastor secure the help me to rent whatever I want so easily this is by far one of the coolest rental shopping experiences that I've ever you,0,1
-True,False,"Order 2 dresses for my wife and never received them. Their delivery boys are highly unprofessional ! I chose delivery slot of 10-12 in morning and even after constant follow up with them they never seemed interested in delivery and they were like ""Aap complain kar do"". I can't trust you guys at all. Advice to others, please don't trust them, they will surely ruin your important day!",0,1
+True,False,Disgusting Apps & it's a one type of Froud Business,0,1
+True,False, The Apps pay Money for Good Good Reviews,0,1
+True,False, Its a very Rediculous Worst apps,0,1
+True,False,Call pastor secure the help me to rent whatever I want so easily this is by far one of the coolest rental shopping experiences that I've ever you,1,1
+True,False,Order 2 dresses for my wife and never received them,0,1
+True,False," Their delivery boys are highly unprofessional ! I chose delivery slot of 10-12 in morning and even after constant follow up with them they never seemed interested in delivery and they were like ""Aap complain kar do""",0,1
+True,False, I can't trust you guys at all,0,1
+True,False," Advice to others, please don't trust them, they will surely ruin your important day!",0,1
 True,False,Cool and pant to use rental application which is so much better than Mantra like applications that I totally love to use it I'm a big fan of this application now,1,1
 True,False,Uninor online payment services with a secure and it will help you to crack whatever you want a really,1,3
-True,False,"Customer service is horrible. Their delivery people are always late. Knowing this, to ensure timely delivery I called customer service well in time to remind them. Inspite of that, the delivery didn't happen on time, and they refused to give me a revised estimated time. I am supposed to wait all night for when their delivery person decides to show up. And at 45 mins past delivery time, they tell me that order has 'been packed'. Mind blowing incompetence!",0,1
+True,False,Customer service is horrible,0,1
+True,False, Their delivery people are always late,0,1
+True,False," Knowing this, to ensure timely delivery I called customer service well in time to remind them",0,1
+True,False," Inspite of that, the delivery didn't happen on time, and they refused to give me a revised estimated time",0,1
+True,False, I am supposed to wait all night for when their delivery person decides to show up,0,1
+True,False," And at 45 mins past delivery time, they tell me that order has 'been packed'",0,1
+True,False, Mind blowing incompetence!,0,1
 True,False,Very good application services are really good for renting clothes online you can get anything so easily from the SAP,1,3
-True,False,My firstly experience was terrible. Downloaded app and its say something went wrong try refreshing did 10 times same thing repeated. HATE IT .,0,1
-True,False,Thhfr,1,2
+True,False,My firstly experience was terrible,1,1
+True,False, Downloaded app and its say something went wrong try refreshing did 10 times same thing repeated,0,1
+True,False, HATE IT ,0,1
+True,False,Thhfr,0,2
 True,False,Best app,1,2
 True,False,Can any1 post here refferal code,0,1
-True,False,I like their tie collection in mens wear which help me a lot for the rental shopping thanks to flyrobe for such a unique concept.,1,3
-True,False,Very expensive,1,1
-True,False,"Have been trying to order clothes, accessories.. but dates are blocked till mid December.. it seems a lil impractical to plan out renting 2 months in advance. Useless for me",0,1
-True,False,data I love the way I provide all the services so easily that is awesome to use this application from time to time,0,1
-True,False,Such a pathetic delivery service. I haven't receive dress even after two days of placing order and customer care executives seems to be clueless.,0,1
-True,False,You ppl are the worst placed my order at 12:30 on 30th it still hasn't come and I left the office after 6:30 wasn't it obvious the someone had ordered it for Diwali and you can't even call on the number which was given to you.,0,1
-True,False,This app is best app which have fabulous collection of metro arrivals which attracts the teenagers for the dashing look that all necessary things will be concern here it so great. Thanks a lot.,0,1
-True,False,I just oder ethnic wear but seeing reviews still in confusion . R u sure that u can deliver on time.,0,2
+True,False,I like their tie collection in mens wear which help me a lot for the rental shopping thanks to flyrobe for such a unique concept,1,3
+True,False,Very expensive,0,1
+True,False,"Have been trying to order clothes, accessories",0,1
+True,False, but dates are blocked till mid December,0,1
+True,False, it seems a lil impractical to plan out renting 2 months in advance,0,1
+True,False, Useless for me,0,1
+True,False,data I love the way I provide all the services so easily that is awesome to use this application from time to time,1,1
+True,False,Such a pathetic delivery service,0,1
+True,False, I haven't receive dress even after two days of placing order and customer care executives seems to be clueless,0,1
+True,False,You ppl are the worst placed my order at 12:30 on 30th it still hasn't come and I left the office after 6:30 wasn't it obvious the someone had ordered it for Diwali and you can't even call on the number which was given to you,0,1
+True,False,This app is best app which have fabulous collection of metro arrivals which attracts the teenagers for the dashing look that all necessary things will be concern here it so great,1,1
+True,False, Thanks a lot,1,1
+True,False,I just oder ethnic wear but seeing reviews still in confusion ,0,2
+True,False, R u sure that u can deliver on time,0,2
 True,False,No proper choice for western outfit,1,1
-True,False,4 stars for app design and usage. 2.5 stars for variety of clothes for Men. Please add suits. Love and regards to flyrobe .,1,3
-True,False,Order got cancelled at the time it was to departure.IF cancellation happens try to let us know before.No response properly.,0,1
+True,False,4 stars for app design and usage,0,3
+True,False, 2,0,3
+True,False,5 stars for variety of clothes for Men,1,3
+True,False, Please add suits,0,3
+True,False, Love and regards to flyrobe ,1,3
+True,False,Order got cancelled at the time it was to departure,0,1
+True,False,IF cancellation happens try to let us know before,0,1
+True,False,No response properly,0,1
 True,False,You can also get premium designer brands from this application for renting so expensive clothes are available so easily,1,1
 True,False,Gate application reduces renting has provided me with a lot of options which you cannot find anywhere else this application is really awesome,1,1
 True,False,really better hates me to save a lot of money and at the same time has me to explore a lot of new stuff,1,2
-False,True,I like the idea,1,4
-False,True,I want them to rent dresses in Hyderabad as well and i'd be a regular customer. Please do the needful,1,5
-False,True,"Came across this app through fb promotions. Was surprised to think why nobody ever did this before abd this efficiently too. Anyway, like the concept, affordable pricing and service. Thanks",1,5
-False,True,I just love the outfit.. I want to request you please add more dresses please and specify the deposit amount also for reserve out fit,0,5
-False,True,"What an interesting concept, wearing Flyrobe to my friend's wedding!",1,5
-False,True,Loved every single thing! From the clothes to the service to the presentation and even the complimentary gift!! Would definitely recommend to everyone I know! So helpful!!,1,5
-False,True,Awesome,1,5
-False,True,Great products,1,5
-False,True,Awesome products,1,5
-False,True,Pretty great collection for women! Very nice filters and interface!,0,5
-False,True,Lovely collection. They have something for every person's taste. Team is extremely helpful n very nice. Looking fwd to using d app more often. Highly recommended...,1,5
-False,True,"Guys, I am not on Facebook. Any other way to place orders?",1,4
-False,True,My trip to a nearby hill station was sudden and I wanted to look absolutely gorgeous with my bf....I quickly ordered from flyrobe and they had this super fast delivery made to me with a surprise complimentary accessory. Thanks flyrobe for making my vacation memorable.,1,5
-False,True,Loved the outfits!!! All as good as new.... all branded stuff.... amazing delivery service!! Gonna use this app a lot!! Thanks flyrobe!!,1,5
-False,True,Y don't u open the same for men .??? Y shld women have all the fun ..,0,4
-False,True,Simply awesome !!,1,5
-False,True,"I saw this app and thought its a great concept gave it a try and everything was absolutely a dream experience.. The communication from flyrobe team, dress delivery and pickup and the condition and the fitting of the dress ... I have blabbered it to all my galfrinds hope they all use this and get the same awesome experience like i did. Thanks",1,5
-False,True,Cant wait to try the ethnic collection.. damn! Next event is in dec ð¦... long wait for me ! :(...big thumbs up thoughâº,1,5
-False,True,Very niche,1,4
-False,True,Loved the app n concept. Do add some large sizes dresses too. :-),1,5
-False,True,Keep it up guys!!,1,5
-False,True,ð,1,5
-False,True,"Flyrobe.com is an absolute saviour.. Right from coordinating delivery/pick up.. to beautiful packaging and the suprise pouch, these guys have done a marvellous job.. Its a complete time n money saver! Thank you flyrobe.com for simply existing. I would really appreciate more choices in the XL size tho..",1,5
-False,True,Ordered a handbag and necklace which arrived in king-style packing and with chocolates and a greeting card for Diwali! Super impressive service! The quality of the products was outstanding too! :),0,5
-False,True,"Thank you so much for the earrings, the chocolates and the Diwali card not to mention the dress in the impeccable packing. This is some really really good customer service.",1,5
-False,True,I really loved this app... the dress i got is just awesome..and the way your service is just speechless... really had a super experience with FLYROBE... will shop again and again.. loving it Thankyou...,1,5
-False,True,So far the products that I saw online is good. Nice collection. I have ordered outfit for the weekend. and I am sure it would turn up to be good,0,4
-False,True,Exuberant collections.,1,5
-False,True,Just installed the app. Haven't ordered any yet. But the collection is really nice. Do you deliver to Kolkata?,1,4
-False,True,"Firstly thank u Flyrobe team for getting such app. I ordered twice from this app and the experience I got was very good. The best part of the app is the delivery and pick up and even the executive c ordinating with us. Coming on the dress qualit, the dresses are very unique and amazingly outstanding. I would jus recommend if the flyrobe team could on work on office kurti or kurta sets from good brands like biba, W, rangmach and many more such brands.",1,5
-False,True,Great concept and very friendly support staff,1,5
-False,True,I just installed the app.. I'm in love with it :* but only one problem. Can these be delivered to Hyderabad please.,1,4
-False,True,Love it,1,5
-False,True,One stop for all the fashion needs. Amazing service and great comfort. This was a much awaited and much needed appâ¤,0,5
-False,True,I really liked this app...because fashion on rent is not only mean that we can wear brands on a cheap rates..it also mean that if we hvnt planned for any function..there flyrobe is like a surprise gift...,1,5
-False,True,Why is it available only in Mumbai? ð­ð­ð­ð­ Pune needs this too. ð³,0,4
-False,True,It's amazing!!,1,5
-False,True,In love with their ethnic collection and kudos to the expectional service that they provide!,1,5
-False,True,Good design and variety,1,5
-False,True,dresses designs are fantastic.. It should be also available in kolkata... ð,1,4
-False,True,"Unaware that dresses were given on rent and not actual purchase ðð just received the dress and I actually loved it. Wish I could keep itð really happy with the way it was delivered, the quality and service. Looking forward to order for the new year now! Excellent ð",0,5
-False,True,I ordered an ethnic wear few weeks ago and l'm really happy with their fast service and awesome collection. The dress was beautiful and stitched according to my size. Will order again. :),1,5
-False,True,I never imagined I can get dresses on rent. I loved my dress. The dress was dry cleaned and ready to wear on arrival. The free accessory was a cherry on the cake. And the ease of getting a dress and return is just amazing.,1,5
-False,True,Love,1,4
-False,True,"Being a shopaholic I always ended up spending a lot buying dresses I would only wear once. Flyrobe has saved me a lot of cash. The variety is amazing and the dresses are clean and ready to wear. Sent a dress to my di in gurgaon, she loved it!! Thanks a lot flyrobe !!",1,5
-False,True,"I recently odrdered a dress for me and my friend for a big dinner party and trust me everybody at the dinner kept staring at us with their eyes wide open..:D Some girls even asked us where did we buy such expensive dresses , we simply smiled and introduced them to flyrobe and they went all craaaaazzyyy with the idea:P The dresses fit properly and the jwellery was a cherry on the cake (who doesnt love free stuff :P) Looking forward to order a dress for a wedding soon:D wishing flyrobe the best of all. :D",1,5
-False,True,I truly love flyrobe. Now I need not to worry about any event. Nice collection and great service.,1,5
-False,True,Awesome app...... I will definitely use this.. Amazing varieties.,0,5
-False,True,This is just amazing. Finally! I've found the right app for myself. Now I can easily get branded dresses and accessories delivered at my house. That too on rent! Will be ordering dresses from the app now. Totally loved the concept and the collection of the dresses are great :) Thank you for creating such an app.,0,5
-False,True,This is an amazing app for fashion... I've just installed it and loved entire collection especially ethnic wear... I've also recommended to my frds and their experience was amazing... Soon I will order for myself as well...looking forward to have great experience...,0,5
-False,True,Parrtying is become so easy... Thanks to FLYROBE...Awesome western dresses ...waiting for more tops n shorts to come ...collection of Traditional cholis n dresses are too good...Thanks To FLYROBE and team..and yaa Shreya :),1,5
-False,True,Ordered twice from Flyrobe and have had a great experience. Would strongly recommend!!,0,5
-False,True,Amazing app! â¤â¤â¤,1,5
-False,True,Awesome collection...ððð,1,5
+True,False,Good app,1,3
+True,False,Best application for renting everything you can definitely go for the application help me out a lot with the best application service available out there,1,1
+True,False,This is really cool I totally love this application is way better than you can I expect of anything,1,3
+True,False,"I had placed an order for lehnga and on the day of delivery only I had to follow on it when it didn't reach,on which they mentioned that lehnga was missing",0,1
+True,False,No msgs or email from their side which was highly irresponsible and unprofessional ,0,1
+True,False,"If they had informed in time,I could have arranged for something ",0,1
+True,False,So I would highly suggest not to rely on this spcly if you are planning to rent on special day,1,1
+True,False,They will spoil ur day and would copy paste the standard apology mail as I have seen for oder bad reviews here,0,1
+True,False,One of the most useful applications available houses for rent and services this is way better than awesome I totally love it using this application has helped me to get everything at very cheap prices,1,1
+True,False,Instead of buying clothes renting is really cheaper and it is available at every fraction of the amount you can also pay by cash on delivery,0,3
+True,False,Hey flyrobe,1,2
+True,False,i wanted to ask that its written rent ₹ abc,1,2
+True,False, So does dt mean its for rent ? Or it will belong to us only afyer dat?,0,2
+True,False,You definitely need to try to see how much better this is,1,1
+True,False,I had ordered for my friend and it wasn't delivered,1,1
+True,False, Please see,0,1
+True,False,Very bad,0,1
+True,False,This is a fraud company,0,1
+True,False, Worst service I booked a jacket which was never delivered to me and at the end moment I have to go and purchase one before the event,0,1
+True,False, There was no response from customer care as well,0,1
+True,False, Don't trust them,0,1
+True,False,I am vry disappointed,0,2
+True,False,Though I booked my order about 20 days prior n they confirmed it too,0,2
+True,False, But They cancelled my order jst five days before delievry date bcz that dress was not available,0,2
+True,False,I did online payement ,1,1
+True,False,it came transaction successful and the app automatically got refreshed and money was deducted from my account,0,1
+True,False,no order confirmation also received,0,1
+True,False,Why it is on rent only,1,1
+True,False,I dont know why i did not give a negative review the first time i ordered,0,1
+True,False, Probably that was because i thought things would be better the next time,1,1
+True,False," But no! I have had a horrible experience with flyrobe, not once but consecutively for the fourth time! EarlierAfter a lot of hassle i used to get a dress at the doorstep atleast",0,1
+True,False, But this time you went a step further in proving how mismanaged the whole staff and logistics at your place is,0,1
+True,False, Never ever going to order and waste my time on this useless app/website!,0,1
+True,False,What a fu,0,1
+True,False,king app superb chutyapa Security deposit Rs 800,0,1
+True,False, First time I have seen security deposit,0,1
+True,False, First close ur ecommerce business,0,1
+True,False, This is best idea from my side,1,1
+True,False, Best option for u guys,1,1
+True,False, Now uninstall the app,0,1
+True,False, Thank for chutyapa,1,1
+True,False,Well this was my first experience with them and I am sure it was the last,1,2
+True,False," Despite making more than 15 calls to their customer care and getting assured that my outfit will be delivered on time, it wasn't",0,2
+True,False, There was no follow up from the customer care team in respect of delivery time or reason for delay in delivery,0,2
+True,False,"After spending all morning and a better half of the afternoon with their customer care, I received the outfit 15 minutes before leaving for the railway station! Extremely disappointing",0,2
+True,False,A big thanks to flyrobe for providing clothes on rent ,1,3
+True,False, great app ,1,3
+True,False, i recommend this app to all ,0,3
+True,False," it helped me big time with my marriage , my wedding gown was not ready and the wedding day was day after tomorrow ",0,3
+True,False," my brother suggested me to use flyrobe as he saw the same wedding gown on flyrbes and also the best part was , they provided it on rent ",1,3
+True,False, so it was a great help to me ,1,3
+True,False, thank you ,1,3
+True,False,Ordered a small size gown for my sister and got the size of a 6 feet tall girl,1,2
+True,False,also the dress was looking very old,1,2
+True,False,"Cant login, website is not user friendly! Read the negative reviews but still tjought to check it up as i need dresses for 7 programs but i cant even login!",0,1
+True,False,that you cannot find in many other applications to click woolen Pan application to use for rental services,1,1
+True,False,I didn't receive my outfit,0,1
+True,False, No follow up at all,0,1
+True,False, I called customer care and they told I will get a call but till date no call,0,1
+True,False," It was very disheartening exp, waiting for outfit",1,1
+True,False, Worst service,0,1
+True,False, Will never suggest any one ,0,1
+True,False,Nice collection but of NO use,1,1
+True,False, As they don't answer the calls neither do they revert to mails,0,1
+True,False, And finally after a week when they realize that there is a mail in the inbox,0,1
+True,False, They reply with standard copy paste answer,0,1
+True,False, They don't even have ethics to go through the entire mail before revert to it with irrelevant answers,0,1
+True,False, Won't ever recommend or use their services,0,1
+True,False,I was order dress bt thn not cnfm and tht it was a rent dress,0,1
+True,False,I don't see their point of creating this app,0,1
+True,False, No deliveries to the address that is accepted on the app as their service area,0,1
+True,False, They won't tell you that your order is cancelled or product can't be delivered until the very last moment,0,1
+True,False, In fact they tell you order is confirmed and is to be delivered,0,1
+True,False, Only to cause disappointment by not sending the garment! Create such an app and then don't give the dress!😂😂 Funny people,0,1
+True,False,I have been using the app for a while and flyrobe has never disappointed me even once,0,1
+True,False, I just love shopping from the app as I get to wear the designer outfits at very affordable prices,1,1
+True,False,wow app,1,1
+True,False, A big thanks for making this app far better than roposo,1,1
+True,False, I like using it,1,1
+True,False,They deliver defect products,0,1
+True,False, My advice please check everything before you accept order,0,1
+True,False," And don't depend on them, always have some backup as returning and changing will take lot of time",0,1
+True,False," In my case, I was too busy and didn't check properly, they have given me size 44 instead of 40",0,1
+True,False," Later, the customer care simply disowned the responsibility",0,1
+True,False,Dis aap isnt wrking,0,1
+True,False," Firstly it never logins and if anyhow it does, immediately after a second app stops wrking",0,1
+True,False,My aunt wanted to buy a saree to attend a wedding so I suggested her to rent the saree from the flyrobe app as even my mom has done the same ,1,3
+True,False, She ordered a saree and I got rs600 coupon on her first purchase ,0,3
+True,False,I liked the app but since the deliveries are for certain cities only it was not helpful,0,2
+True,False, Please try coming to other cities or have the dresses delivered,0,2
+True,False,I was so fascinated by the dresses and their rent prices,1,1
+True,False, I really wanted to rent one of them,1,1
+True,False, But then I got to know that they don't rent in the Navi Mumbai area,0,1
+True,False," If you want to expand your business, you need to expand the area also!!",0,1
+True,False,Keeps crashing!,0,2
+True,False,Doesn't work,0,1
+True,False, Wanted a tuxedo for a wedding but this app isn't showing anything for Delhi ncr,0,1
+True,False, You guys need to work a lot,1,1
+False,True,and yaa Shreya :),0,5
+False,True,Ordered twice from Flyrobe and have had a great experience,1,5
+False,True, Would strongly recommend!!,0,5
+False,True,Amazing app! ❤❤❤,1,5
+False,True,Awesome collection,1,5
+False,True,😘😘😘,0,5
 False,True,A new amazing wardrobe,1,5
 False,True,Awesome collection!,1,5
-False,True,Awesome collection! Used it many times. It always works for me!,1,5
+False,True,Awesome collection! Used it many times,1,5
+False,True, It always works for me!,1,5
 False,True,Awesome collection! Supercool app!!,1,5
-False,True,"Good concept, good stuff! Super smooth experience on second order compared to the first one. Guess teething errors have been worked upon.",0,5
-False,True,Amazing response...completely satisfied,0,5
+False,True,"Good concept, good stuff! Super smooth experience on second order compared to the first one",1,5
+False,True, Guess teething errors have been worked upon,0,5
+False,True,Amazing response,1,5
+False,True,completely satisfied,1,5
 False,True,Very good,1,5
-False,True,"à¤®à¥à¤à¤¾.........à¤®à¥à¤à¤¾..........à¤®à¥à¤à¤¾.........à¤®à¥à¤à¤¾ à¤à¤¬ à¤®à¥à¤à¤¾ à¤à¤ multinational company à¤®à¥à¤ BUSINESS à¤à¤°à¤¨à¥ à¤à¤¾.... Joining 100%....Free à¤®à¥à¤à¤¾ à¤à¤° à¤¬à¥à¤ à¥ Jobbers ..Students.. House wives à¤¸à¤¬ à¤à¥ à¤²à¤¿à¤¯à¥ ......à¤à¤ª à¤­à¥ à¤à¤°à¥à¤ à¤à¤° à¤à¤ªà¤¨à¥à¤ à¤à¥ à¤­à¥ à¤¯à¥ à¤®à¥à¤à¤¾ à¤¦à¥à¤à¤¿à¤¯à¥à¥¤ * à¤®à¥à¤¬à¤¾à¤à¤²..DTH..à¤°à¤¿à¤à¤¾à¤°à¥à¤+à¤à¤®à¥à¤¶à¤¨ *à¤à¤¨à¤²à¤¾à¤à¤¨ à¤à¤°à¥à¤¦à¤¾à¤°à¥+à¤à¤®à¥à¤¶à¤¨ *landline.. electricity à¤¬à¤¿à¤² à¤­à¥à¤à¤¤à¤¾à¤¨+à¤à¤®à¥à¤¶à¤¨ *à¤°à¥à¤²,à¤¬à¤¸,à¤¸à¤¿à¤¨à¥à¤®à¤¾,à¤¹à¤µà¤¾à¤ à¤à¤¹à¤¾à¤ à¤à¤¦à¤¿ à¤à¥ à¤à¤¿à¤à¤ à¤¬à¥à¤à¤¿à¤à¤+à¤à¤®à¥à¤¶à¤¨ ** à¤­à¤¾à¤°à¤¤ à¤¸à¤¹à¤¿à¤¤ à¤à¤ à¤¦à¥à¤¶à¥à¤ à¤®à¥à¤ à¤à¤ª à¤à¤¿à¤¸à¥ à¤à¥ à¤­à¥ à¤à¤¸ BUSINESS à¤®à¥à¤ à¤à¥à¤µà¤¾à¤à¤¨ à¤à¤°à¤µà¤¾ à¤¸à¤à¤¤à¥ à¤¹à¥à¤ à¤µà¥ à¤­à¥ à¤¬à¤¿à¤²à¥à¤à¥à¤² FREE JOINING à¤à¤° à¤ªà¤¾à¤à¤ à¤à¤®à¥à¤¶à¤¨ à¤­à¥ à¤¤à¥ à¤à¤ à¤¹à¥ à¤¶à¥à¤°à¥ à¤à¤°à¥à¤ à¤¯à¤¹ à¤¶à¤¾à¤¨à¤¦à¤¾à¤° Business à¤¹à¤®à¤¾à¤°à¥ à¤¸à¤¾à¤¥ . Play store à¤¸à¥ install à¤à¤°à¥à¤ Champcash Earn money app Sponsor id - 499357 à¤¡à¤¾à¤² à¤¦à¥à¤à¤¿à¤¯à¥à¤à¤¾ à¥¤ à¤à¤§à¤¿à¤ à¤à¤¾à¤¨à¤à¤¾à¤°à¥ à¤¹à¥à¤¤à¥ ....type info&gt;send Whtsapp :7798269064 http://Champcash.com/499357 Sponsor id: 499357",1,5
-False,True,Awesome dresses.. just loved it!,1,5
-False,True,"I saw this app on my fb & immediately I downloaded it from play store.I liked the concept very much, so wanted to give a try. I had tried & the overall experience was good.",1,4
+False,True,मौका,0,5
+False,True,मौका,0,5
+False,True,मौका,0,5
+False,True,मौका अब मौका एक multinational company में BUSINESS करने का,0,5
+False,True, Joining 100%,0,5
+False,True,Free मौका घर बैठे Jobbers ,1,5
+False,True,Students,0,5
+False,True, House wives सब के लिये ,0,5
+False,True,आप भी करें और अपनों को भी ये मौका दीजिये। * मोबाइल,0,5
+False,True,DTH,0,5
+False,True,रिचार्ज+कमीशन *ऑनलाइन खरीदारी+कमीशन *landline,0,5
+False,True," electricity बिल भुगतान+कमीशन *रेल,बस,सिनेमा,हवाई जहाज आदि की टिकट बुकिंग+कमीशन ** भारत सहित कई देशों में आप किसी को भी इस BUSINESS में ज्वाइन करवा सकते हैं वो भी बिल्कुल FREE JOINING और पाएं कमीशन भी तो आज ही शुरू करें यह शानदार Business हमारे साथ ",0,5
+False,True, Play store से install करें Champcash Earn money app Sponsor id - 499357 डाल दीजियेगा । अधिक जानकारी हेतु ,0,5
+False,True,type info&gt;send Whtsapp :7798269064 http://Champcash,0,5
+False,True,com/499357 Sponsor id: 499357,1,5
+False,True,Awesome dresses,1,5
+False,True, just loved it!,1,5
+False,True,I saw this app on my fb & immediately I downloaded it from play store,0,4
+False,True,"I liked the concept very much, so wanted to give a try",1,4
+False,True, I had tried & the overall experience was good,1,4
 False,True,Tis app is really amazing,1,5
 False,True,Cool app,1,5
-False,True,First of all amazing packaging...loved the outfit...complete customer delight...genuine service...loved it way too much...will for sure recommend other for the same...thank you for the fab service..,1,5
-False,True,"This app is every girls rescue to her ""What do i wear"" problem.. Love it.. :*",1,5
-False,True,Great App.. Ordered outfit was delivered on time.. Great experience.,1,5
-False,True,"Flyrobe Which really make me feel special. Amazing Concept which make girls to solve the day to day problem of wearing outfit on occasion and to be perfect on her occasion, Not only perfect but very especial. Its help WOMEN to wear such pretty branded dress at reasonable rate. Best part of the outfit is its steam inroned and presented in well manner which really look good and also hygenic, About the services punctuate during delivery and Pick up. Great concept Carry on and thanks for bring such concept f",1,5
-False,True,Had a great experience with my first fashion date! This app is really helpful... Services are also better and the app is amazingly amazing:-D,1,5
-False,True,Awesome app. Great service.,1,5
+False,True,First of all amazing packaging,1,5
+False,True,loved the outfit,1,5
+False,True,complete customer delight,0,5
+False,True,genuine service,1,5
+False,True,loved it way too much,1,5
+False,True,will for sure recommend other for the same,1,5
+False,True,thank you for the fab service,1,5
+False,True,"This app is every girls rescue to her ""What do i wear"" problem",1,5
+False,True, Love it,1,5
+False,True, :*,0,5
+False,True,Great App,1,5
+False,True, Ordered outfit was delivered on time,0,5
+False,True, Great experience,1,5
+False,True,Flyrobe Which really make me feel special,1,5
+False,True," Amazing Concept which make girls to solve the day to day problem of wearing outfit on occasion and to be perfect on her occasion, Not only perfect but very especial",1,5
+False,True, Its help WOMEN to wear such pretty branded dress at reasonable rate,1,5
+False,True," Best part of the outfit is its steam inroned and presented in well manner which really look good and also hygenic, About the services punctuate during delivery and Pick up",1,5
+False,True, Great concept Carry on and thanks for bring such concept f,1,5
+False,True,Had a great experience with my first fashion date! This app is really helpful,1,5
+False,True, Services are also better and the app is amazingly amazing:-D,1,5
+False,True,Awesome app,1,5
+False,True, Great service,1,5
 False,True,Good app and service,1,5
-False,True,One of the best app have ever come across...,1,5
-False,True,"Flyrobe had got me very excited when I read about it on Facebook for the first time, as this concept is awesome and releases half of our worries to look exclusive for occasions. My first experience was a little shaky with them but they were all ears to my queries and did manage to resolve it eventually. the second experience was great and I cannot wait for the 3rd and many moreâ¦.Big thanks to the entire team for running this conceptâ¦Good luck :)",0,4
-False,True,"superrb collection, on time delivery, and most important renowned designer brands are here... Loved it.. !!! Will Flyrobe forever..",1,5
-False,True,"The service, products & custoner service reps are all brilliant.",1,5
+False,True,One of the best app have ever come across,1,5
+False,True,"Flyrobe had got me very excited when I read about it on Facebook for the first time, as this concept is awesome and releases half of our worries to look exclusive for occasions",1,4
+False,True, My first experience was a little shaky with them but they were all ears to my queries and did manage to resolve it eventually,0,4
+False,True, the second experience was great and I cannot wait for the 3rd and many more…,1,4
+False,True,Big thanks to the entire team for running this concept…Good luck :),1,4
+False,True,"superrb collection, on time delivery, and most important renowned designer brands are here",1,5
+False,True, Loved it,1,5
+False,True, !!! Will Flyrobe forever,1,5
+False,True,"The service, products & custoner service reps are all brilliant",1,5
 False,True,Amazing,1,5
-False,True,"Quick turnaround, no hassle, great variety. Love the app, love the service.",1,5
-False,True,Well I read about flyrobe in the newspaper and wanted the app right way. I was bummed to find the app is only for women. Lets hope you start the same for men. Kudos for the idea. I am going to suggest this to all my fashion freak friends for sure.,0,4
-False,True,Had an amazing experience.... Nice outfits..people who value for money should definitely try this,1,5
-False,True,"Flyrobe is turning me into a stunner at every occasion...n got everybody asking me where did I get that gorgeous outfit fromð Be it a 'Western Chic' look or 'Traditional Kudi' they've got it all...amazing n wide range of outfits n accessories to choose fromâ¥ prompt service, fast delivery, easy return policies!!! Looking forward to my next fashion date with Flyrobeðð» Xoxo Flyrobeðð",1,5
-False,True,"Ordered from flyrobe in three occasions, it was a great experience. Loved the quality. Keep up the quality control please .. :) I'd really like to mention here the customer support Amarjeet & Sonali are great help. Thanks for handling enormous queries from me & solving them too.. Cheers to many more amazing fashionable times ;)",0,5
-False,True,"I just loved the whole concept of renting. This app is an answer to most frequently asked question by we girls, ""What should i wear for this event?!"". Also the services by the team are commendable!",0,5
-False,True,Happy with the app.. Keep it going!!,1,5
-False,True,Most cooperative staff.. very friendly app.. best experience,1,5
-False,True,I ordered ethnic dress from flyrobe. .its an awesome experience. .u guys will rock in fashion segment...wish u all the luck..,1,5
-False,True,This app is just perfect. #BlessingForAllTheGirlsOutThere,1,5
-False,True,I'm loving it â¤,1,5
-False,True,Kudos to the whole team for such a wonderful app!! The execution of the same surpassed all my expectations. A fabulous service for the fabulous Me! Worth every penny.,1,5
-False,True,Superb idea. .. great deals. Affordable prices for branded stuff,1,4
-False,True,"Flyrobe has a wonderful concept fashion on rent I think it solvee the problem in a girls day to day life.... Besides this I love the collection they have from basic western to party Wears and from basic Indians to wedding outfits.... Even the latest trends like slit dress, crop top, floral skirts everything is available here and they have easy delivery policies tooo and even free pick up and drop.... I love the app",1,4
-False,True,"Flyrobe made my first fashion date a great experience! Quick customer service and a wide variety to choose from. Not having to expand my wardrobe yet getting me all the clothes I want. Thanks, team flyrobe! Looking forward to the next fashion date ;)",1,5
-False,True,Ordered a dress for my new year's outing the dress arrived before time and exactly how it was shown in the picture no complaints its an awesome service,0,5
+False,True,"Quick turnaround, no hassle, great variety",1,5
+False,True," Love the app, love the service",1,5
+False,True,Well I read about flyrobe in the newspaper and wanted the app right way,1,4
+False,True, I was bummed to find the app is only for women,1,4
+False,True, Lets hope you start the same for men,1,4
+False,True, Kudos for the idea,1,4
+False,True, I am going to suggest this to all my fashion freak friends for sure,1,4
+False,True,Had an amazing experience,1,5
+False,True, Nice outfits,1,5
+False,True,people who value for money should definitely try this,1,5
+False,True,Flyrobe is turning me into a stunner at every occasion,1,5
+False,True,n got everybody asking me where did I get that gorgeous outfit from😍 Be it a 'Western Chic' look or 'Traditional Kudi' they've got it all,0,5
+False,True,"amazing n wide range of outfits n accessories to choose from♥ prompt service, fast delivery, easy return policies!!! Looking forward to my next fashion date with Flyrobe💃🏻 Xoxo Flyrobe💋💜",1,5
+False,True,"Ordered from flyrobe in three occasions, it was a great experience",1,5
+False,True, Loved the quality,1,5
+False,True, Keep up the quality control please ,1,5
+False,True, :) I'd really like to mention here the customer support Amarjeet & Sonali are great help,1,5
+False,True, Thanks for handling enormous queries from me & solving them too,1,5
+False,True, Cheers to many more amazing fashionable times ;),1,5
+False,True,I just loved the whole concept of renting,1,5
+False,True," This app is an answer to most frequently asked question by we girls, ""What should i wear for this event?!""",1,5
+False,True, Also the services by the team are commendable!,1,5
+False,True,Happy with the app,1,5
+False,True, Keep it going!!,0,5
+False,True,Most cooperative staff,0,5
+False,True, very friendly app,0,5
+False,True, best experience,1,5
+False,True,I ordered ethnic dress from flyrobe,1,5
+False,True, ,0,5
+False,True,its an awesome experience,1,5
+False,True, ,0,5
+False,True,u guys will rock in fashion segment,1,5
+False,True,wish u all the luck,1,5
+False,True,This app is just perfect,1,5
+False,True, #BlessingForAllTheGirlsOutThere,0,5
+False,True,I'm loving it ❤,1,5
+False,True,Kudos to the whole team for such a wonderful app!! The execution of the same surpassed all my expectations,1,5
+False,True, A fabulous service for the fabulous Me! Worth every penny,1,5
+False,True,Superb idea,1,4
+False,True, ,0,4
+False,True, great deals,1,4
+False,True, Affordable prices for branded stuff,1,4
+False,True,Flyrobe has a wonderful concept fashion on rent I think it solvee the problem in a girls day to day life,1,4
+False,True, Besides this I love the collection they have from basic western to party Wears and from basic Indians to wedding outfits,1,4
+False,True," Even the latest trends like slit dress, crop top, floral skirts everything is available here and they have easy delivery policies tooo and even free pick up and drop",1,4
+False,True, I love the app,1,4
+False,True,Flyrobe made my first fashion date a great experience! Quick customer service and a wide variety to choose from,1,5
+False,True, Not having to expand my wardrobe yet getting me all the clothes I want,0,5
+False,True," Thanks, team flyrobe! Looking forward to the next fashion date ;)",1,5
+False,True,Ordered a dress for my new year's outing the dress arrived before time and exactly how it was shown in the picture no complaints its an awesome service,1,5
 False,True,Had a great experience with their service,1,5
-False,True,Best serviceâSuperb experience. Loved it.,0,5
+False,True,Best service✔Superb experience,1,5
+False,True, Loved it,1,5
 False,True,Really good collection! And good service!,1,4
-False,True,Used Flyrobe for a prom because I had nothing appropriate to wear and they sent me not only three dresses that I wanted to try but also accessories with each outfit. Strongly recommend them :),1,5
-False,True,Helped me get a look for a day! Good options.,1,4
-False,True,It was a good experience. The top material was excellent and it did came on time with a vry good packing .,0,4
-False,True,Had a great experience!! Look forward to more such fashion dates!,0,4
-False,True,Had a great experience with flyrobe...Stunning collections; Prompt service; Quick delivery and easy return policies...Keep going guysð,1,5
-False,True,"Amazing experience ðâº Awesome Collection.. Perfect for any occasion.. Nominal Rent.. Just went crazy with the concept.. Its gonna save my husband's wallet from getting Empty! Also, am gonna look awesome on every occasion in these lovely designer outfits â ð.. Thank you team for such an amazing App ð.. Easy to rent.. Customer Support Team ð.. Timely Delivery & Pickup.. Hassle free.. saves Energy.. Time.. Money ðð too!! Waiting for my next fashion date..",1,5
-False,True,Best place to rent high end dresses and v reasonable prices..... service is Awesum and colllection of all dresses are to live by!!! Must.Must.Must to alll you ladies ...... ;),1,5
-False,True,Thanks to the team for such an amazing App.. Its a Perfect Solution for my Wife's festive wardrobe fights ;) and it saves my time(shopping) & money too!!,1,5
-False,True,One stop for all the fashion needs. Amazing service and great comfort. This was a much awaited and much needed appâ¤,0,5
+False,True,Used Flyrobe for a prom because I had nothing appropriate to wear and they sent me not only three dresses that I wanted to try but also accessories with each outfit,1,5
+False,True, Strongly recommend them :),0,5
+False,True,Helped me get a look for a day! Good options,1,4
+False,True,It was a good experience,1,4
+False,True, The top material was excellent and it did came on time with a vry good packing ,1,4
+False,True,Had a great experience!! Look forward to more such fashion dates!,1,4
+False,True,Had a great experience with flyrobe,1,5
+False,True,Stunning collections; Prompt service; Quick delivery and easy return policies,1,5
+False,True,Keep going guys👍,1,5
+False,True,Amazing experience 😊☺ Awesome Collection,1,5
+False,True, Perfect for any occasion,1,5
+False,True, Nominal Rent,1,5
+False,True, Just went crazy with the concept,1,5
+False,True," Its gonna save my husband's wallet from getting Empty! Also, am gonna look awesome on every occasion in these lovely designer outfits ✌ 😜",1,5
+False,True, Thank you team for such an amazing App 👍,1,5
+False,True, Easy to rent,1,5
+False,True, Customer Support Team 👍,0,5
+False,True, Timely Delivery & Pickup,0,5
+False,True, Hassle free,1,5
+False,True, saves Energy,0,5
+False,True, Time,0,5
+False,True, Money 😉😜 too!! Waiting for my next fashion date,0,5
+False,True,Best place to rent high end dresses and v reasonable prices,1,5
+False,True, service is Awesum and colllection of all dresses are to live by!!! Must,1,5
+False,True,Must,0,5
+False,True,Must to alll you ladies ,0,5
+False,True, ;),0,5
+False,True,Thanks to the team for such an amazing App,1,5
+False,True, Its a Perfect Solution for my Wife's festive wardrobe fights ;) and it saves my time(shopping) & money too!!,1,5
+False,True,One stop for all the fashion needs,1,5
+False,True, Amazing service and great comfort,1,5
+False,True, This was a much awaited and much needed app❤,1,5
 False,True,Awesome collection,1,5
 False,True,Nice service :),1,5
-False,True,Great collection and awesome customer service.,1,5
+False,True,Great collection and awesome customer service,1,5
 False,True,Amazing service,1,5
 False,True,Superb!,1,5
-False,True,The pickups and drops were on time and smooth. Amazing experience with Flyrobe,1,5
+False,True,The pickups and drops were on time and smooth,1,5
+False,True, Amazing experience with Flyrobe,1,5
 False,True,Awesome concept!,1,5
 False,True,Great concept!,1,5
-False,True,The quality of the clothes and the box in which u guys deliver is very systematic. Only prob is the user interface of the app. It doesn't work smoothly. Pls work on it,1,4
-False,True,Fresh new concept... I have tried the gala collection and loved it... An easy way to stay stylish,1,5
+False,True,The quality of the clothes and the box in which u guys deliver is very systematic,1,4
+False,True, Only prob is the user interface of the app,1,4
+False,True, It doesn't work smoothly,0,4
+False,True, Pls work on it,0,4
+False,True,Fresh new concept,1,5
+False,True, I have tried the gala collection and loved it,1,5
+False,True, An easy way to stay stylish,1,5
 False,True,Amazing,1,5
-False,True,Its delivered to your doorstep and on time.,1,5
+False,True,Its delivered to your doorstep and on time,0,5
 False,True,Amazing service,1,5
-False,True,I luvd d idea....nd d collection....gud goin....u need to keep more deals cause rental prices r damn high,1,4
-False,True,Awesome app.. But please add more pieces and accessories :),1,4
+False,True,I luvd d idea,1,4
+False,True,nd d collection,1,4
+False,True,gud goin,0,4
+False,True,u need to keep more deals cause rental prices r damn high,0,4
+False,True,Awesome app,1,4
+False,True, But please add more pieces and accessories :),1,4
 False,True,Awesome Service and collection :),1,5
-False,True,An amazing app.. Great collection.. Tried Flyrobe twice and wasn't disappointed.. Great and friendly customer service.. And most importantly very hygienic.. Keep up the Good work! Love..ð,0,5
-False,True,"Isn't there any option for ""search""?",1,4
-False,True,"The collection is nice ( needs more variety soon ) , but the real win is the service. These guys were ready to wait it out till I tried the outfit and decided whether to keep it. I got complimentary earrings ( okayish ones though ), and when I realised id called for the wrong size, I had no trouble in returning the dress.",1,4
+False,True,An amazing app,1,5
+False,True, Great collection,1,5
+False,True, Tried Flyrobe twice and wasn't disappointed,0,5
+False,True, Great and friendly customer service,1,5
+False,True, And most importantly very hygienic,0,5
+False,True, Keep up the Good work! Love,1,5
+False,True,💗,0,5
+False,True,"Isn't there any option for ""search""?",0,4
+False,True,"The collection is nice ( needs more variety soon ) , but the real win is the service",1,4
+False,True, These guys were ready to wait it out till I tried the outfit and decided whether to keep it,0,4
+False,True," I got complimentary earrings ( okayish ones though ), and when I realised id called for the wrong size, I had no trouble in returning the dress",0,4
+False,True,Nice,1,5
+False,True,Nice app,1,4
+False,True,Nice app for renting the dress ,1,5
+False,True,superb,1,5
+False,True,Fly robe has lot of options,1,4
+False,True,loved it!!,1,4
+False,True,Good app,1,5
+False,True,good app,1,5
+False,True,Good app,1,5
+False,True,Good app which makes husband expenditure less before every party,1,5
+False,True, And girls like it,1,5
+False,True,Flyrobe=girl's wadrobe,1,4
+False,True,nice shopping,1,5
+False,True,Super,1,4
+False,True,Great customer service :),1,5
+False,True,Perfect!!,1,5
+False,True,Nice collection,1,5
+False,True,Awesome collection and smooth service :),1,5
+False,True,I have rented thrice from flyrobe,0,5
+False,True,love the packing and the collection of clothes is good too,1,5
+False,True,though the app experience can be improved a little more,0,5
+False,True,"👬""सबका साथ सबका विकास""👬 ✅अपने Android फ़ोन से घर बैठे 10000₹ से 1 लाख प्रति महीना कमा सकते हो",0,5
+False,True, बैगर कोई पैसा लगाये एक दम 100% बिलकुल फ्री फ्री ,0,5
+False,True, SPONSER ID - 621838 तो जाने आप सब अपने ही android मोबाइल से कैसे पैसे कमा सकते हो ? 1⃣ सबसे पहले अपने फ़ोन के play store में जाओ | 2⃣ वहाँ पर Champcash लिखो और उस apps को अपने मोबाइल में install कर लो ! 3⃣ अब apps पर click करो और sing up with champ cash पर click करके अपनी डिटेल्स भर दो,0,5
+False,True, 4⃣ अब आपसे saponser id पूछेगा वहाँ पर 621838 डाल दो और अपनी id बना लो ! 5⃣ Ch,0,5
+False,True,Its a perfect concept,1,5
+False,True,The prices are also very reasonable and have a great collection,1,5
+False,True, Just a small tip- it should have the option of offering our branded stuff for rent too and it should have a bigger collection in western wear and bags and bling,1,5
+False,True, Ordered for the first time a week back and the compliments I got were priceless not to mention because of a coupon I got the order for free,0,5
+False,True, Booking an order once more today and I hope it won't be a disappointment,0,5
+False,True,Loved my outfit but improvements could be made with respect to custom fitting,1,4
+False,True, The outfit I ordered for my sister was quite lose,1,4
+False,True, The trial option could be added to Indian wear also,0,4
+False,True,I just love this app,1,5
+False,True,A money saver,0,5
+False,True, Prompt service and nice collection,1,5
+False,True,Awesome collections,1,5
+False,True,Look beautiful with FLYROBE,1,5
+False,True,"Hi, awesome services and employees are understanding",1,5
+False,True, Outfits are really beautiful,1,5
+False,True,Awsum,0,5
+False,True,Though there were some technical glitches with the app,0,5
+False,True,But I am amazed with the service,1,5
+False,True, Within 2 hrs the dress was at my place,1,5
+False,True," In such bful packing, a complimentary gift and a Valentine's chocolate",1,5
+False,True,U've solved every girls' problem,1,5
+False,True,Kudos to the team fr executing this concept,1,5
+False,True, Totally in love with Flyrobe,1,5
+False,True,Perfect app for all the girls,1,5
+False,True,Rating,0,5
+False,True,Had amazing experience with flyrobe,1,5
+False,True,Loved the app,1,5
+False,True,Very good,1,5
+False,True,Loved it! Nyc service:),1,5
+False,True,I loved it,1,5
+False,True,Bhut khub,0,4
+False,True,3hrs perfect service,1,4
+False,True, discount was also awesome ,1,4
+False,True, & yes the matching jewel was surprise ,1,4
+False,True, Worth it,0,4
+False,True, Loved It😘,1,4
+False,True,I ordered an outfit and it got delivered within 1,0,5
+False,True,5 hours! The packing was impeccable,1,5
+False,True, Definitely gonna suggest to all my friends,1,5
+False,True, :),0,5
+False,True,Do i love flyrobe or i LOVE flyrobe awesome service and the clothes are amazing this is my second time ordering and i loved it keep it going,1,5
+False,True,Superb,1,5
+False,True,Awesome collection and smooth service :),1,5
+False,True,Piece was fresh n new,1,5
+False,True, Well maintained,0,5
+False,True, Worth every penny,0,5
+False,True, Supa happy,1,5
+False,True,"I would definitely give a 5/5, once the clothes starts smelling good",1,4
+False,True, I ain't telling clothes smells foul,1,4
+False,True, But a good smelling cloth is a yes! Yes!,1,4
+False,True,Flyrobe Which really make me feel special,1,5
+False,True," Amazing Concept which make girls to solve the day to day problem of wearing outfit on occasion and to be perfect on her occasion, Not only perfect but very especial",1,5
+False,True, Its help WOMEN to wear such pretty branded dress at reasonable rate,1,5
+False,True,My wife has ordered multiple times and the quality and service was flawless,0,5
+False,True,"Amazing concept, Time Saving, Money Saving",1,5
+False,True,!!,0,5
+False,True,Nice concept,1,5
+False,True,I ordered 2 dresses from fyrobe and both of them were superb,1,4
+False,True, Was a little disappointed with customer service when I orderd after 8PM for the next day,0,4
+False,True, Customer service should take care of customers even after 8PM,0,4
+False,True,Amazing experience,1,5
+False,True," The packaging is so cool, even the things we buy online don't come in such good packaging, but a rental dress comes to you like a gift packed for a princess! The service is very good",1,5
+False,True, Quality of the product is great,1,5
+False,True, Thanks team Flyrobe for introducing such an amazing source,1,5
+False,True," Adding to it, I would like it even more if you keep more options in XS sized dresses for skinny girls like me",1,5
+False,True," 😜😜 Lastly, I would recommend everyone to use Flyrobe",0,5
+False,True,Its really very appreciating the thought of the founder i really like it,1,5
+False,True,I seleted drss for my wife she felt so hppy to have tht beautiful drss and free jewellry ,1,5
+False,True, Found it so amzing ,0,5
+False,True,"Hiiiii, this is too good nd fablous dresses, there outfit is also awsm nd i like it",1,5
+False,True,Perfect app,1,5
+False,True,I LOVE the service the quality,1,5
+False,True,it makes me feel happy when i get the product delivered,1,5
+False,True, good job,1,5
+False,True,Amazing app looking forward for more 😃👍😊,1,5
+False,True,"Loved the app, it is quite convenient to use",1,5
+False,True, The dresses are of good quality,1,5
+False,True, I recommended it,1,5
+False,True, :),0,5
+False,True,"Amazing service , dresses well packed and free jewelry is NYC service",1,5
+False,True,I have ordered an outfit from flyrobe and it was awesum,1,5
+False,True, the outfit was so neat & clean as if its new,1,5
+False,True, also the customer support was awesum,0,5
+False,True, and got it delivered at my doorstep,0,5
+False,True, very happy with overall experience :) Thanks to the team,1,5
+False,True,Awsm app,0,5
+False,True,i have been using your service and find the collection good,1,5
+False,True, Had a nice experience,1,5
+False,True, Resonable price,0,5
+False,True,Good flyrobe in dehli,1,5
+False,True,Got the dress before time,0,5
+False,True,all clean as if new,1,5
+False,True, A complimentary accessory and vouchers for a cab ride,0,5
+False,True, Very thoughtful of flyrobe,1,5
+False,True, I m gonna Book Wear Return Repeat,0,5
+False,True,Liked the styles and deals offered,1,4
+False,True,Great app,1,5
+False,True,Nice app,1,5
+False,True,Wonderfull,0,5
+False,True,Had an amazing experience renting an outfit,1,5
+False,True,Helped a lot with the ordering process,1,4
+False,True,Definately they deserve 5 star,0,5
+False,True, Always on time,0,5
+False,True, They have good collection but would appreciate they can add more to it,1,5
+False,True, No other issues,0,5
+False,True, Good luck!!! 👍,1,5
+False,True,"This is a great way to own clothes for an occasion, rented a jacket and was very pleased with the service and pickup",1,4
+False,True, Just a suggestion please add more options in shirts and tops in your casual category,0,4
+False,True,I love it,1,5
+False,True,Flyrobe made my Valentine day!,0,5
+False,True,It was a fab experience n I look forward for many such awesome experiences,1,4
+False,True, Team flyrobe take a bow,1,4
+False,True, M extremely thrilled by d idea of both buying n renting d outfit,1,4
+False,True,Never thought renting wud be awesome ,1,5
