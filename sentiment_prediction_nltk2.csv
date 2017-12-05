@@ -1,0 +1,121 @@
+Negative,Neutral,Positive,Review Text,Sentiment,Star Rating
+0.0,0.208,0.792,"[{'Amazing': True, 'concept': True}, 2]",2,5
+0.0,0.265,0.735,"[{'Love': True, 'the': True, 'concept': True, 'superb': True, 'implementation': True}, 2]",2,4
+0.0,0.375,0.625,"[{'Please': True, 'do': True, 'help': True, 'at': True, 'd': True, 'earliest': True}, 2]",0,4
+0.0,0.417,0.583,"[{'I': True, 'really': True, 'want': True, 'to': True, 'c': True, 'traditional': True, 'outfits': True, 'plz': True, 'help': True}, 2]",0,2
+0.0,0.204,0.796,"[{'Beautiful': True, 'app': True}, 2]",2,5
+0.0,0.417,0.583,"[{'Nice': True, 'to': True, 'see': True}, 2]",0,5
+0.0,0.461,0.539,"[{'A': True, 'really': True, 'great': True, 'concept': True, '!': True, 'Loooveee': True, 'it': True}, 2]",2,5
+0.0,0.323,0.677,"[{'Love': True, 'the': True, 'idea': True}, 2]",2,5
+0.0,0.0,1.0,"[{'V': True, 'nice': True}, 2]",2,5
+0.0,0.206,0.794,"[{'True': True, 'bliss': True, 'is': True, 'looking': True, 'good': True, 'on': True, 'a': True, 'budget': True, ':': True, ')': True}, 2]",0,5
+0.0,0.263,0.737,"[{'Nice': True, 'app': True}, 2]",2,5
+0.0,0.424,0.576,"[{'I': True, 'like': True, 'the': True, 'app': True, '!': True, 'It': True, ""'s"": True, 'awesome': True, 'also': True, 'suggest': True, 'my': True, 'friends': True, 'try': True, 'this': True}, 2]",0,4
+0.0,0.196,0.804,"[{'Great': True, 'app': True, '!': True, 'Amazing': True, 'service': True}, 2]",2,5
+0.0,0.323,0.677,"[{'Kudos': True, 'to': True, 'the': True, 'team': True, ':': True, ')': True}, 2]",0,5
+0.0,0.204,0.796,"[{'Loved': True, 'it': True}, 2]",2,5
+0.0,0.196,0.804,"[{'Amazing': True, 'collection': True, '!': True}, 2]",2,5
+0.0,0.393,0.607,"[{'Very': True, 'nice': True, 'concept': True}, 2]",2,5
+0.0,0.339,0.661,"[{'Loved': True, 'it': True, '&': True, 'lt': True, ';': True, '3': True}, 2]",2,5
+0.0,0.204,0.796,"[{'Loved': True, 'it': True}, 2]",2,5
+0.0,0.196,0.804,"[{'Awesome': True, 'collection': True}, 2]",2,5
+0.0,0.147,0.853,"[{'Nice': True, 'concept': True, ':': True, ')': True}, 2]",2,5
+0.0,0.256,0.744,"[{'Good': True, 'Designs': True}, 2]",0,5
+0.0,0.135,0.865,"[{'Awesome': True, 'collection': True, ':': True, '-': True, ')': True}, 2]",2,5
+0.0,0.199,0.801,"[{'Awesome': True, ':': True, ')': True, 'my': True, 'gf': True, 'will': True, 'love': True, 'this': True, 'D': True}, 2]",2,5
+0.0,0.494,0.506,"[{'Great': True, 'clothing': True, 'at': True, 'reasonable': True, 'price': True}, 2]",2,5
+0.0,0.193,0.807,"[{'Loving': True, 'it': True, '!': True}, 2]",0,5
+0.0,0.263,0.737,"[{'Nice': True, 'collection': True}, 2]",2,4
+0.0,0.432,0.568,"[{'Superb': True, 'clothes': True, 'and': True, 'also': True, 'amazing': True, 'packing': True, 'service': True}, 2]",0,5
+0.0,0.323,0.677,"[{'Super': True, 'Hot': True, 'Collection': True, '!': True}, 2]",2,5
+0.0,0.444,0.556,"[{'I': True, 'like': True, 'the': True, 'idea': True}, 2]",2,4
+0.0,0.0,1.0,"[{'Thanks': True}, 2]",2,5
+0.0,0.417,0.583,"[{'I': True, 'just': True, 'love': True, 'the': True, 'outfit': True}, 2]",2,5
+0.0,0.0,1.0,"[{'Awesome': True}, 2]",2,5
+0.0,0.196,0.804,"[{'Great': True, 'products': True}, 2]",2,5
+0.0,0.196,0.804,"[{'Awesome': True, 'products': True}, 2]",2,5
+0.0,0.389,0.611,"[{'Pretty': True, 'great': True, 'collection': True, 'for': True, 'women': True, '!': True, 'Very': True, 'nice': True, 'filters': True, 'and': True, 'interface': True}, 2]",2,5
+0.0,0.208,0.792,"[{'Lovely': True, 'collection': True}, 2]",2,5
+0.0,0.383,0.617,"[{'Team': True, 'is': True, 'extremely': True, 'helpful': True, 'n': True, 'very': True, 'nice': True}, 2]",1,5
+0.0,0.323,0.677,"[{'Highly': True, 'recommended': True}, 2]",2,5
+0.0,0.439,0.561,"[{'Loved': True, 'the': True, 'outfits': True, '!': True, 'All': True, 'as': True, 'good': True, 'new': True}, 2]",2,5
+0.787,0.213,0.0,"[{'HATE': True, 'IT': True}, 1]",2,1
+0.583,0.417,0.0,"[{'Useless': True, 'for': True, 'me': True}, 1]",0,1
+0.552,0.448,0.0,"[{'Such': True, 'a': True, 'pathetic': True, 'delivery': True, 'service': True}, 1]",1,1
+0.524,0.476,0.0,"[{'No': True, 'response': True, 'properly': True}, 1]",1,1
+0.791,0.209,0.0,"[{'Very': True, 'bad': True}, 1]",1,1
+0.559,0.441,0.0,"[{'This': True, 'is': True, 'a': True, 'fraud': True, 'company': True}, 1]",1,1
+0.575,0.425,0.0,"[{'Do': True, ""n't"": True, 'trust': True, 'them': True}, 1]",0,1
+0.608,0.392,0.0,"[{'I': True, 'am': True, 'vry': True, 'disappointed': True}, 1]",0,2
+0.527,0.473,0.0,"[{'i': True, 'tried': True, 'buying': True, 'clothes': True, 'roposo': True, ',': True, 'but': True, 'poor': True, 'quality': True, 'had': True, 'a': True, 'bad': True, 'experience': True}, 1]",0,5
+0.825,0.175,0.0,"[{'What': True, 'a': True, 'fu': True}, 1]",0,1
+0.804,0.196,0.0,"[{'Worst': True, 'service': True}, 1]",1,1
+0.608,0.392,0.0,"[{'I': True, 'was': True, 'always': True, 'disappointed': True}, 1]",0,5
+0.608,0.392,0.0,"[{'I': True, 'was': True, 'always': True, 'disappointed': True}, 1]",0,5
+0.506,0.494,0.0,"[{'worst': True, 'app': True, 'to': True, 'try': True, 'for': True}, 1]",0,1
+0.573,0.427,0.0,"[{'DUMB': True, 'people': True, 'AT': True, 'flyRObe': True}, 1]",1,1
+0.408,0.382,0.21,"[{'Worst': True, ',': True, 'lost': True, 'trust': True, 'and': True, 'never': True, 'ever': True, 'gon': True, 'na': True, 'use': True, 'it': True}, 1]",1,1
+0.608,0.392,0.0,"[{'Disappointed': True, 'as': True, 'always': True}, 1]",0,1
+0.772,0.228,0.0,"[{'really': True, 'disappointed': True}, 1]",1,2
+0.688,0.312,0.0,"[{'no': True, 'words': True}, 1]",1,5
+0.524,0.476,0.0,"[{'?': True, 'no': True, 'more': True, 'wait': True}, 1]",0,5
+0.558,0.442,0.0,"[{'I': True, 'have': True, 'very': True, 'bad': True, 'experience': True}, 1]",1,5
+0.531,0.469,0.0,"[{'very': True, 'poor': True, 'quality': True, 'clothes': True}, 1]",1,5
+0.583,0.417,0.0,"[{'Time': True, 'waste': True, 'app': True}, 1]",1,1
+0.672,0.328,0.0,"[{'Worst': True, 'app': True, 'ever': True}, 1]",1,1
+0.463,0.149,0.388,"[{'Just': True, 'fake': True, 'promises': True}, 1]",1,1
+0.5,0.132,0.368,"[{'Lol': True, 'bullshit': True, 'app': True}, 1]",2,1
+1.0,0.0,0.0,"[{'Worst': True}, 1]",1,1
+0.672,0.328,0.0,"[{'Worst': True, 'service': True, 'ever': True}, 1]",1,1
+0.722,0.278,0.0,"[{'what': True, 'a': True, 'crap': True}, 1]",0,1
+0.583,0.417,0.0,"[{'Waste': True, 'of': True, 'time': True}, 1]",1,1
+0.772,0.228,0.0,"[{'Really': True, 'disappointed': True}, 1]",1,1
+0.792,0.208,0.0,"[{'Bullshit': True, 'ad': True}, 1]",2,1
+0.832,0.168,0.0,"[{'Worst': True, 'app': True, ':': True, '/': True, 'extremely': True, 'disappointed': True}, 1]",1,1
+0.583,0.417,0.0,"[{'Too': True, 'costly': True}, 1]",1,1
+0.524,0.476,0.0,"[{'Flyrobe': True, 'is': True, 'No': True}, 1]",1,5
+0.672,0.328,0.0,"[{'worst': True, 'app': True, 'ever': True}, 1]",1,1
+0.925,0.075,0.0,"[{'Worst': True, 'worst': True, 'company': True}, 1]",1,1
+0.506,0.494,0.0,"[{'The': True, 'worst': True, 'experience': True, 'ever': True, 'had': True}, 1]",1,1
+0.506,0.494,0.0,"[{'One': True, 'of': True, 'the': True, 'worst': True, 'app': True}, 1]",2,1
+0.756,0.244,0.0,"[{'Terrible': True, 'UX': True}, 1]",1,4
+0.0,1.0,0.0,"[{'Lovwdit': True}, 0]",2,5
+0.0,0.75,0.25,"[{'I': True, ""'m"": True, 'glad': True, 'this': True, 'thing': True, 'is': True, 'now': True, 'available': True, 'in': True, 'India': True, 'too': True}, 0]",0,3
+0.0,0.741,0.259,"[{'Like': True, ',': True, 'FINALLY': True, '!': True, 'Looking': True, 'forward': True, 'for': True, 'the': True, 'services': True, 'and': True, 'styles': True}, 0]",0,3
+0.0,1.0,0.0,"[{'Look': True, 'forward': True, 'to': True, 'men': True, 'section': True}, 0]",0,5
+0.0,0.702,0.298,"[{'My': True, 'girlfriend': True, 'tried': True, 'the': True, 'service': True, 'when': True, 'it': True, 'had': True, 'just': True, 'launched': True, 'and': True, 'a': True, 'fantastic': True, 'experience': True}, 0]",0,5
+0.0,0.773,0.227,"[{'Picked': True, 'a': True, 'dress': True, ',': True, 'had': True, 'it': True, 'show': True, 'up': True, 'in': True, '3': True, 'hours': True, 'and': True, 'wore': True, 'for': True, 'great': True, 'night': True, 'out': True}, 0]",0,5
+0.0,0.796,0.204,"[{'As': True, 'heard': True, 'from': True, 'horse': True, ""'s"": True, 'mouth': True, 'please': True, 'start': True, 'for': True, 'men': True, 'also': True}, 0]",0,5
+0.114,0.563,0.323,"[{'Love': True, 'the': True, 'idea': True, '!': True, 'Ordered': True, 'my': True, 'first': True, 'flyrobe': True, 'and': True, 'wow': True, 'Never': True, 'again': True, 'will': True, 'I': True, 'say': True, '``': True, ""'ve"": True, 'got': True, 'nothing': True, 'to': True, 'wear': True, ""''"": True, ':': True, 'D': True}, 0]",0,5
+0.0,0.58,0.42,"[{'What': True, ""'s"": True, 'better': True, 'than': True, 'gifting': True, 'a': True, 'dress': True, '?': True, 'Gift': True, '10': True, 'dresses': True, 'using': True, 'Flyrobe': True}, 0]",0,5
+0.0,1.0,0.0,"[{'How': True, 'do': True, 'I': True, 'login': True}, 0]",0,4
+0.0,1.0,0.0,"[{'Where': True, 'is': True, 'the': True, 'access': True, 'code': True}, 0]",0,4
+0.0,1.0,0.0,"[{'How': True, 'do': True, 'I': True, 'login': True}, 0]",0,4
+0.0,0.796,0.204,"[{'please': True, 'tell': True, 'anyone': True, 'I': True, 'ca': True, ""n't"": True, 'wait': True, 'to': True, 'get': True, 'into': True, 'this': True, 'app': True}, 0]",0,4
+0.0,0.683,0.317,"[{'but': True, 'I': True, 'dnt': True, 'kno': True, 'like': True, 'how': True, 'to': True, 'get': True, 'in': True}, 0]",0,4
+0.0,1.0,0.0,"[{'where': True, 'is': True, 'the': True, 'access': True, 'code': True, 'provided': True, '?': True}, 0]",0,4
+0.0,0.506,0.494,"[{'Such': True, 'a': True, 'fantastic': True, 'idea': True, ',': True, 'I': True, 'love': True, 'the': True, 'way': True, 'it': True, 'has': True, 'been': True, 'implemented': True}, 0]",2,5
+0.0,0.575,0.425,"[{'Wonderful': True, 'app': True, 'to': True, 'supplement': True, 'the': True, 'experience': True}, 0]",2,5
+0.0,0.682,0.318,"[{'I': True, 'would': True, 'highly': True, 'recommend': True, 'it': True, 'anyone': True, 'and': True, 'everyone': True}, 0]",2,5
+0.0,0.588,0.412,"[{'Keep': True, 'going': True, 'and': True, 'all': True, 'the': True, 'best': True, 'team': True}, 0]",0,5
+0.0,0.575,0.425,"[{'Looking': True, 'forward': True, 'to': True, 'big': True, 'success': True, 'ahead': True}, 0]",2,5
+0.0,1.0,0.0,"[{'how': True, 'to': True, 'log': True, 'in': True, '?': True, 'access': True, 'code': True}, 0]",0,3
+0.0,1.0,0.0,"[{'How': True, 'can': True, 'i': True, 'login': True, '?': True}, 0]",0,4
+0.0,0.648,0.352,"[{'I': True, 'like': True, 'the': True, 'concept': True, 'and': True, 'want': True, 'to': True, 'use': True, 'app': True}, 0]",0,5
+0.0,0.714,0.286,"[{'But': True, 'I': True, 'need': True, 'an': True, 'invite': True, 'code': True}, 0]",0,5
+0.0,1.0,0.0,"[{'com': True, '?': True}, 0]",0,5
+0.0,1.0,0.0,"[{'What': True, ""'s"": True, 'd': True, 'use': True, 'if': True, 'v': True, 'can': True, 'now': True, 'take': True, 'access': True, 'with': True, 'out': True, 'code': True}, 0]",0,1
+0.0,1.0,0.0,"[{'N': True, 'wats': True, 'd': True, 'code': True}, 0]",0,1
+0.0,0.725,0.275,"[{'Nice': True, 'but': True, 'y': True, 'r': True, 'indian': True, 'dresses': True, 'not': True, 'coming': True, '?': True}, 0]",0,5
+0.0,1.0,0.0,"[{'How': True, 'do': True, 'I': True, 'login': True}, 0]",0,4
+0.0,1.0,0.0,"[{'where': True, 'is': True, 'access': True, 'code': True}, 0]",0,4
+0.0,1.0,0.0,"[{'How': True, 'i': True, 'will': True, 'get': True, 'access': True, 'code': True}, 0]",0,4
+0.0,1.0,0.0,"[{'What': True, 'should': True, 'I': True, 'enter': True, 'for': True, 'the': True, 'access': True, 'code': True, '?': True, 'And': True, 'already': True, 'sent': True, 'you': True, 'an': True, 'email': True, 'regarding': True, 'same': True}, 0]",0,4
+0.0,1.0,0.0,"[{'Hiii': True, 'management': True}, 0]",2,3
+0.0,1.0,0.0,"[{'how': True, 'do': True, 'I': True, 'login': True, 'inn': True, 'into': True, 'the': True, 'app': True}, 0]",0,3
+0.0,1.0,0.0,"[{'com': True}, 0]",0,3
+0.0,1.0,0.0,"[{'com': True, 'and': True, 'I': True, 'got': True, 'a': True, 'quick': True, 'reply': True}, 0]",0,4
+0.0,0.69,0.31,"[{'I': True, 'am': True, 'so': True, 'excited': True, 'to': True, 'try': True, 'app': True, 'out': True}, 0]",0,4
+0.0,1.0,0.0,"[{'How': True, 'to': True, 'access': True}, 0]",0,4
+0.0,0.575,0.425,"[{'code': True, '?': True, 'Eagerly': True, 'waiting': True, 'to': True, 'access': True}, 0]",0,4
+0.0,0.698,0.302,"[{'Plz': True, 'let': True, 'me': True, 'know': True}, 0]",0,4
